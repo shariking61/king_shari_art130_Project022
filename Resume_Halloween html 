@@ -1,6 +1,52 @@
 <!DOCTYPE html>
-<html lang="en"></html>
-</html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatatible" content="IE=edge">
+<title>Shai Marie King Halloween Resume</title>
+<link rel="stylesheet" href="assets/style .css">
+</head>
+<body>
+    <div class="wrapper">
+        <span class="kicker">Distributor of Tricks and Treats
+            </span>
+            <img src="assets/halloweenmecopy.png" alt="shari with mask and fascinator">
+            <h1>
+                <span class="larger-names">Shari Marie King <br />
+                    <span class= "larger-names">Contact <br />
+                    sking@ salemwitchproj.gov<br />
+                    1616 Mockingbird Lane </span>
+                    Transylvania, Romania  06660</span>
+                    606-666-DEAD(3323) </h1>
+                    h1>
+                    <h2>
+                       <span class="larger-names">Educational Background </span>
+                       School of Hard Knocks 1970-?<b />
+                       Whats Amatter U 2001-?<b />
+                       Hogwarts Alumni 1997-2007</h2>
+
+                    </h2>
+                    <h3>
+                      <span class="larger-names">Affiliations </span>
+                      Salem Witch Project<b />
+                      Wiccan Chapter #79<b />
+                      Munster Support Group
+                    </h3>
+
+
+                  
+                    
+
+
+
+
+
+            </h1>
+
+    </div>
+</body>
 
 
 
