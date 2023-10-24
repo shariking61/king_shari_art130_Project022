@@ -16,9 +16,11 @@ html{background-color: bisque;}
 
 body{font-family: Lato-Regular ;}
 
-.kicker {font-family: 'Lato-Bold';
-    font-size:x-large;
-margin-top: 5rem;}
+.kicker {
+    font-family: 'Lato-Bold';
+    font-size: 4rem;
+    margin-top: 5rem;
+}
 
 .wrapper {
     position: relative;
