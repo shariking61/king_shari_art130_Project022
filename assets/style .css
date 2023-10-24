@@ -1,4 +1,14 @@
 @font-face {
     font-family: 'lato';
-    src: url('assets/lato-Regular') format('regular')
+    src: url('Lato-Regular.ttf');
+}
+@font-face {
+    font-family: 'lato';
+    src: url('Lato-Black.ttf');
+}@font-face {
+    font-family: 'lato';
+    src: url('Lato-Italic.ttf');
+}@font-face {
+    font-family: 'lato';
+    src: url('Lato-Bold.ttf');
 }
