@@ -31,11 +31,12 @@ h1{ font-family: 'Lato-Bold';
 font-size: 7rem;}
 
 
-h1.larger-names {
+.larger-names {
     font-size: 10rem;
     line-height: 0.6;
     margin-top: 2rem;
 }
-img.main-image{
+
+.main-image{
     border-top-width: 25%;
 }
