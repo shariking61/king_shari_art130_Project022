@@ -37,6 +37,7 @@ font-size: 7rem;}
     margin-top: 2rem;
 }
 
-.main-image{
-    border-top-width: 25%;
+.main-image {
+    width: 25%;
+    height: auto;
 }
